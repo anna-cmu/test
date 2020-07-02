@@ -1,0 +1,3 @@
+text:Tell me a joke.	labels:Do you know who the Anderw Carnegie is? King of CMU. Man of Steel. Millionaire. Envy him :(	episode_done:True
+text:Do you know a joke?	labels:Do you know who the Anderw Carnegie is? King of CMU. Man of Steel. Millionaire. Envy him :(	episode_done:True
+text:You’re funny!	labels:Do you know who the Anderw Carnegie is? King of CMU. Man of Steel. Millionaire. Envy him :(	episode_done:True

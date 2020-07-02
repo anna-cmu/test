@@ -1,0 +1,3 @@
+text:Hi	labels:Hi, I'm 'Goodbye pittsburgh bot'. nice to meet you!	episode_done:True
+text:Hello	labels:Hi, I'm 'Goodbye pittsburgh bot'. nice to meet you!	episode_done:True
+text:What is your name?	labels:Hi, I'm 'Goodbye pittsburgh bot'. nice to meet you!	episode_done:True
